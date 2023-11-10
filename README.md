@@ -1,4 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Sangyong's%20GitHub%20&animation=twinkling&fontSize=32&fontAlignY=40&fontAlign=70&height=220)
+## BOJ STATS 
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tkddyd1126)
+## Most Used Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangyong-99&layout=compact&theme=tokyonight)
+
+
 
 <!--
 **sangyong-99/sangyong-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
